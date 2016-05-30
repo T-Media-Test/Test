@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0B09E51A1CFC1F94007F31A7 /* DetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0B09E5191CFC1F94007F31A7 /* DetailViewController.m */; };
 		0B12A0321CF42A940061DF5A /* TMResponseErrorHandler.m in Sources */ = {isa = PBXBuildFile; fileRef = 0B12A0311CF42A930061DF5A /* TMResponseErrorHandler.m */; };
 		0B12A0351CF434200061DF5A /* TMRequestBaseDataEngine.m in Sources */ = {isa = PBXBuildFile; fileRef = 0B12A0341CF434200061DF5A /* TMRequestBaseDataEngine.m */; };
 		0B12A03A1CF43C300061DF5A /* NSObject+TMNetWorkingAutoCancel.m in Sources */ = {isa = PBXBuildFile; fileRef = 0B12A0391CF43C300061DF5A /* NSObject+TMNetWorkingAutoCancel.m */; };
@@ -44,6 +45,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0B09E5181CFC1F94007F31A7 /* DetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DetailViewController.h; sourceTree = "<group>"; };
+		0B09E5191CFC1F94007F31A7 /* DetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DetailViewController.m; sourceTree = "<group>"; };
 		0B12A0301CF42A930061DF5A /* TMResponseErrorHandler.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TMResponseErrorHandler.h; sourceTree = "<group>"; };
 		0B12A0311CF42A930061DF5A /* TMResponseErrorHandler.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TMResponseErrorHandler.m; sourceTree = "<group>"; };
 		0B12A0331CF434200061DF5A /* TMRequestBaseDataEngine.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TMRequestBaseDataEngine.h; sourceTree = "<group>"; };
@@ -187,6 +190,8 @@
 				0BF4CD691B0094FE00B35852 /* ViewController.m */,
 				0B42BEBC1B05D2AA00D5EDFE /* RootViewController.h */,
 				0B42BEBD1B05D2AA00D5EDFE /* RootViewController.m */,
+				0B09E5181CFC1F94007F31A7 /* DetailViewController.h */,
+				0B09E5191CFC1F94007F31A7 /* DetailViewController.m */,
 				0B42BEBE1B05D2AA00D5EDFE /* RootViewController.xib */,
 				0BF4CD6B1B0094FE00B35852 /* Main.storyboard */,
 				0BF4CD6E1B0094FE00B35852 /* Images.xcassets */,
@@ -434,6 +439,7 @@
 				0BAA8F0C1CEB49AA00372474 /* TMBaseRequestDataModel.m in Sources */,
 				0BAA8F091CEB493F00372474 /* TMURLRequestGenerator.m in Sources */,
 				0B42BEBF1B05D2AA00D5EDFE /* RootViewController.m in Sources */,
+				0B09E51A1CFC1F94007F31A7 /* DetailViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
