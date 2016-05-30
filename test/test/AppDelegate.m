@@ -4,7 +4,7 @@
 //
 //  Created by joinus on 15/5/11.
 //  Copyright (c) 2015年 joinus. All rights reserved.
-//
+//公共部分
 
 #import "AppDelegate.h"
 #import "RootViewController.h"
