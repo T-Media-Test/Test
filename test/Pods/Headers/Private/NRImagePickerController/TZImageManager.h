@@ -1,1 +1,0 @@
-../../../NRImagePickerController/TZImagePickerController/TZImagePickerController/TZImageManager.h
