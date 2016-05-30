@@ -1,0 +1,50 @@
+PODS:
+  - AFNetworking (3.1.0):
+    - AFNetworking/NSURLSession (= 3.1.0)
+    - AFNetworking/Reachability (= 3.1.0)
+    - AFNetworking/Security (= 3.1.0)
+    - AFNetworking/Serialization (= 3.1.0)
+    - AFNetworking/UIKit (= 3.1.0)
+  - AFNetworking/NSURLSession (3.1.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.1.0)
+  - AFNetworking/Security (3.1.0)
+  - AFNetworking/Serialization (3.1.0)
+  - AFNetworking/UIKit (3.1.0):
+    - AFNetworking/NSURLSession
+  - BDGImagePicker (0.0.6)
+  - BUKImagePickerController (0.1.10):
+    - FastttCamera (~> 0.3)
+  - ELCImagePickerController (0.2.0)
+  - FastttCamera (0.3.4):
+    - FastttCamera/Default (= 0.3.4)
+  - FastttCamera/Default (0.3.4)
+  - HMImagePicker (1.0.3)
+  - JFImagePicker (1.0.0)
+  - Masonry (0.6.4)
+  - NRImagePickerController (1.1.6)
+
+DEPENDENCIES:
+  - AFNetworking (~> 3.1.0)
+  - BDGImagePicker (~> 0.0.6)
+  - BUKImagePickerController (~> 0.1.10)
+  - ELCImagePickerController (~> 0.2.0)
+  - HMImagePicker (~> 1.0.3)
+  - JFImagePicker (~> 1.0.0)
+  - Masonry (~> 0.6.4)
+  - NRImagePickerController (~> 1.1.4)
+
+SPEC CHECKSUMS:
+  AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
+  BDGImagePicker: a43a9c2e7929a6fa769c9ca799fde0373efbc11b
+  BUKImagePickerController: d08c2e1f6ebe32d63d75f9a5ea06f780f7e45a77
+  ELCImagePickerController: b1b7084434a7d49f2cfc916bde1f3ba353d38de9
+  FastttCamera: 51f16712cbd5bdb08bc6231b957325c6be5e478d
+  HMImagePicker: 697b06ef8c751017a4b3cbcb4c779f95a0e3000e
+  JFImagePicker: 2914c69dac80767a98664e768ac50118664e9f04
+  Masonry: 281802d04d787ea2973179ee8bcb50500579ede2
+  NRImagePickerController: 54188e3326a80078f4e6e0932ea67180fb45353c
+
+COCOAPODS: 0.39.0
